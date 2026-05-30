@@ -1,17 +1,22 @@
 # Hi, I'm Heba 👋
 
-👩‍💻 About Me
-Data Analyst
-Python & Data Visualization
-Learning SQL, Power BI & Machine Learning
+# 👩‍💻 About Me
 
-🌐 Web Development
+# Data Analyst
+
+Python & Data Visualization
+SQL, Power BI & Machine Learning
+
+# 🌐 Web Development
+
 Al Azhar Herbal Store Web App
 
-🎨 Design
+# 🎨 Design
+
 UI & Graphic Design Projects
 
-🔧 Embedded Systems
+# 🔧 Embedded Systems
+
 HAL Drivers
 MCAL Drivers
 Graduation Project
