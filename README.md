@@ -1,25 +1,49 @@
 # Hi, I'm Heba 👋
 
 ## 👩‍💻 About Me
+Passionate engineer interested in Embedded Systems, Web Development, Data Analysis, and UI/Graphic Design.
 
-## Data Analyst
+---
 
-Python & Data Visualization
-SQL, Power BI & Machine Learning
+## 📊 Data Analysis
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Data Visualization
+
+---
 
 ## 🌐 Web Development
+### Projects
+- Al Azhar Herbal Store Web App
 
-Al Azhar Herbal Store Web App
+Technologies:
+- HTML
+- CSS
+- JavaScript
+- Netlify
+
+---
 
 ## 🎨 Design
+- UI Design
+- Graphic Design Projects
 
-UI & Graphic Design Projects
+---
 
 ## 🔧 Embedded Systems
+### Projects
+- HAL Drivers
+- MCAL Drivers
+- Graduation Project
 
-HAL Drivers
-MCAL Drivers
-Graduation Project
+Technologies:
+- Embedded C
+- AVR
+- Microcontrollers
 
-## Contact
-GitHub: https://github.com/HebaDesigner
+---
+
+## 📫 Contact
+- GitHub: https://github.com/eng-heba-tech
