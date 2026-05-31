@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Screenshot_2026-05-31-02-15-07-477_com.miui.gallery-edit.jpg" alt="Banner" width="100%">
 </p>
-## 👩‍💻 Hi, I'm Heba 👋
+👩‍💻 Hi, I'm Heba 👋
 
 **Engineer · Developer · Analyst · Designer**
 
